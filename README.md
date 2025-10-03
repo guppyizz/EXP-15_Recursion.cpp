@@ -1,5 +1,18 @@
+# 💻 C++ EXPERIMENTS
+
+A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
+
+---
+
+## 👨‍🎓 Student Information
+
+- **Name:** Updesh Arora  
+- **PRN:** 24070123124  
+- **Branch:** ENTC  
+- **Class:** B-3
+
+---
 # EXP-15_Recursion.cpp
-# Recursion
 # 🔄 Recursion in C++
 # 🎯 Aim
 To study and understand the concept of recursion in C++, and explore how problems can be solved by functions calling themselves until a base condition is reached.
